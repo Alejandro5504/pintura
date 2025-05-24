@@ -1,0 +1,44 @@
+   body {
+
+       width: 100%;
+       display: flex;
+       float: left;
+       flex-direction: column;
+       flex-wrap: wrap;
+       align-items: center;
+       align-content: center;
+       justify-content: center;
+       margin: 3em;
+       background-image: url(../img/pinturas_con_base_de_aceite_o_de_agua.jpg);
+
+   }
+
+   h1 {
+
+       width: 30%;
+       background-color: rgb(83, 197, 254);
+
+   }
+
+   form {
+
+       width: 40%;
+       background-image: url(../img/e.jpg);
+       position: fixed;
+       top: 30%;
+       margin-bottom: 5px;
+       border-radius: 8px;
+       box-shadow: 1px 1px 15px;
+       background-color: rgba(255, 255, 255, 0.2);
+       padding: 5px;
+
+
+   }
+
+   label,
+   input {
+
+       margin-bottom: 15px;
+       display: block;
+
+   }
